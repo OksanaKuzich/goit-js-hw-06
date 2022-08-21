@@ -36,3 +36,8 @@ button {
   width: 90%;
   height: 100%;
 }
+
+#boxes {
+  display: flex;
+  flex-direction: column;
+}
